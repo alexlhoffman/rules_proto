@@ -24,10 +24,10 @@ dependencies = {
         ],
     },
     "com_google_protobuf": {
-        "sha256": "a8d42ebaa2ac1ba00dd0b7fa3411dcd7700b1e4ffc066f3e7bf4a080020873c5",
-        "strip_prefix": "protobuf-3.12.2-1",
+        "sha256": "16a010b2e16ace0ddaa9d99942c32c42a8ea9cd70c2fdc808384c8aa857c2cff",
+        "strip_prefix": "protobuf-3.12.2-2",
         "urls": [
-            "https://github.com/alexlhoffman/protobuf/archive/v3.12.2-1.tar.gz",
+            "https://github.com/alexlhoffman/protobuf/archive/v3.12.2-2.tar.gz",
         ],
     },
     # Dependency of `com_google_protobuf`.
